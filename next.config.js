@@ -1,9 +1,5 @@
 module.exports = {
   reactStrictMode: true,
-}
-
-
-module.exports = {
   async headers() {
     return [
       {
